@@ -1,0 +1,13 @@
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\bin\Debug\netcoreapp3.1\Logica de programacao.exe
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\bin\Debug\netcoreapp3.1\Logica de programacao.deps.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\bin\Debug\netcoreapp3.1\Logica de programacao.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\bin\Debug\netcoreapp3.1\Logica de programacao.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\bin\Debug\netcoreapp3.1\Logica de programacao.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\bin\Debug\netcoreapp3.1\Logica de programacao.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\obj\Debug\netcoreapp3.1\Logica de programacao.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\obj\Debug\netcoreapp3.1\Logica de programacao.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\obj\Debug\netcoreapp3.1\Logica de programacao.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\obj\Debug\netcoreapp3.1\Logica de programacao.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\obj\Debug\netcoreapp3.1\Logica de programacao.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\obj\Debug\netcoreapp3.1\Logica de programacao.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\Logica de programacao\obj\Debug\netcoreapp3.1\Logica de programacao.genruntimeconfig.cache
